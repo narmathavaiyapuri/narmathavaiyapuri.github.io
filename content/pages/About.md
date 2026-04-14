@@ -1,42 +1,48 @@
 Title: About
-Date: 2026-01-10
+Date: 2026-04-14
 
 # About the Blog
 
-This blog is about GenAI, LLMs, machine learning, Python, and tech education. I write about what I'm learning, building, and experimenting with in the world of Generative AI. I'm not a professional writer, but the more I write, the better I get.
+This blog is where I share my journey of learning, building, and experimenting in the world of technology. I write about Generative AI, machine learning, Python, and modern tech concepts based on what I explore through projects and continuous learning.
+
+I’m not a professional writer, but I believe writing helps me learn better and grow consistently. This blog is my space to document that journey and share useful insights with others.
 
 # About Me
 
-I'm **Raja CSP Raman** — an engineer, educator, author, and founder.
+I am currently pursuing my B.Tech in Computer Science and Business Systems at Jansons Institute of Technology, Coimbatore. My journey in technology is driven by curiosity, creativity, and a strong interest in building real-world solutions.
 
-From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
+Coming from a city background, I am focused on continuously improving my technical skills and exploring emerging domains like Artificial Intelligence, Generative AI, and software development.
 
-I moved to Canada in 2010 and studied at **Humber Institute of Technology** in Toronto. Over 13 years in Ontario, I built a career working with American and European clients across diverse tech domains — from ticketing systems to retail and gaming technology.
+## My Journey
 
-Throughout my career, I've dedicated my weekends to mentoring students from rural backgrounds, teaching them cutting-edge technologies through one-on-one sessions. The impact: **442 students** have secured their first jobs through my guidance, with over **30 of them** now earning more than ₹20 lakhs annually.
+As a student, I actively engage in learning by doing — working on projects, participating in technical events, and experimenting with new tools and technologies.
 
-## Current Work
+I have hands-on experience in:
 
-I'm the founder of **[Kactii](https://app.kactii.com/c/raja)** — a GenAI Agent Marketplace. I also operate **Kactii Academy** from Toronto, focusing on nurturing both Canadians and South Indians in the latest GenAI technology stack. Previously, I led **Aracor** as Head of AI & Engineering, where I managed an 11-member team and initiated the AI roadmap for AracorAI.
+Programming with Java and Python
+Web development using HTML, CSS, and JavaScript
+Backend development with Spring Boot
+Exploring cloud platforms and AI tools
+3D design and modeling using Blender
 
-I'm also the founder of **Featurepreneur**, an invitation-only Slack community focused on student development, supporting Canadian SMEs and startups on their micro features.
+I enjoy solving problems, building innovative ideas, and continuously upgrading my skills to stay aligned with industry trends
 
-My ambitious 10-year mission is to establish **Tamil Nadu as the GenAI Hub of India**, a vision I'm actively pursuing through collaborations with engineering colleges across Tamil Nadu.
+## Current Focus
 
-## Publications & Open Source
+I am currently focused on:
 
-- Author of **"Building RESTful Web Services with Spring 5"**
-- Published **8 research papers** on Arxiv, with collaborative student efforts
-- PyPI / FOSS contributions: **Agentic Optio** (lightweight LangChain alternate), **TokSum** (GenAI token counter), **Tamil Tokenizer**
+Building projects in Generative AI and Machine Learning
+Strengthening my full-stack development skills
+Exploring cloud technologies (AWS, Azure, GCP)
+Participating in hackathons and technical competitions
+
+One of my key project interests includes developing smart solutions like AI-based systems and IoT-integrated applications that solve real-world problems.
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/raja-csp-raman/)
-- [GitHub](https://github.com/rajacsp)
-- [PyPI](https://pypi.org/user/rajacsp/)
-- [Google Scholar](https://scholar.google.com/citations?user=rajacsp)
-- [Kactii](https://app.kactii.com/c/raja)
+- [LinkedIn](https://www.linkedin.com/in/narmatha-vaiyapuri-89596b402/)
+- [GitHub](https://github.com/narmathavaiyapuri)
 
 ## Outside of Tech
 
-When I'm not shaping the future of tech education, you might find me unwinding with a John Grisham novel.
+When I’m not working on tech, I enjoy listening to music, exploring creative design ideas, and watching movies for relaxation and inspiration.
