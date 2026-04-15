@@ -1,4 +1,4 @@
-# Title: Day 3 – Building an End-to-End AI Pipeline  
+Title: Day 3 – Building an End-to-End AI Pipeline  
 Date: 2026-04-15  
 Category: GenAI  
 Tags: GenAI, AI Pipeline, llama.cpp, MongoDB  
