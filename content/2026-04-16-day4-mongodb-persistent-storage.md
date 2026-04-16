@@ -9,7 +9,6 @@ Status: published
 
 ## Introduction
 
-### Meaning
 In AI systems, data should not be lost after execution. Persistent storage helps store data permanently.
 
 ### Use
@@ -23,7 +22,6 @@ On Day 4, I connected my Python application to MongoDB to build a persistent bac
 
 ## Understanding Persistent Storage
 
-### Meaning
 Persistent storage means saving data permanently in a database.
 
 ### Use
@@ -36,16 +34,11 @@ Persistent storage means saving data permanently in a database.
 - Stateful → Stores memory  
 
 ---
-
 ## MongoDB Overview
-
-### Meaning
 MongoDB is a NoSQL database that stores data as JSON-like documents.
-
 ### Use
 - Store flexible data  
 - Handle scalable applications  
-
 ### Structure
 - Database  
 - Collection  
@@ -54,15 +47,12 @@ MongoDB is a NoSQL database that stores data as JSON-like documents.
 ---
 
 ## Connecting Python to MongoDB
-
-### Meaning
 This step connects Python application with MongoDB.
 
 ### Use
 - Insert data  
 - Retrieve data  
 - Build backend systems  
-
 ### Code
 
 ```python
@@ -90,7 +80,6 @@ collection = db["ai_outputs"]
 
 ## Environment Variables
 
-### Meaning
 Environment variables store sensitive data securely.
 
 ### Use
@@ -104,10 +93,8 @@ MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/ai_pipeline?re
 DB_NAME=ai_pipeline
 
 ```
-
 ## Inserting Data
 
-### Meaning
 Inserting data means storing new data into MongoDB.
 
 ### Use
@@ -132,7 +119,6 @@ print("Inserted ID:", result.inserted_id)
 
 ## Retrieving Data
 
-### Meaning
 Retrieving data means fetching stored information.
 
 ### Use
@@ -142,13 +128,11 @@ Retrieving data means fetching stored information.
 ### Types
 
 #### Fetch all
-
 ```python
 for doc in collection.find():
     print(doc)
 
 ```
-
 ### Fetch one
 ```python
 result = collection.find_one({"prompt": "What is AI?"})
@@ -156,14 +140,10 @@ print(result)
 ```
 
 ## Saving AI Output
-
-### Meaning
 Saving AI output means storing prompt and response together.
-
 ### Use
 - Maintain conversation history  
 - Enable memory-based AI  
-
 ### Code
 
 ```python
@@ -177,12 +157,10 @@ def save_ai_output(prompt, response):
     }
 
     collection.insert_one(data)
-
 ```
 
 ## System Flow
 
-### Meaning
 System flow shows how data moves in the application.
 
 ### Use
@@ -192,11 +170,6 @@ System flow shows how data moves in the application.
 ### Flow Diagram
 
 ![System Flow](images/system-flow.png)
-
-
----
-
-### Flow Steps
 
 -User input
 -Python processes
