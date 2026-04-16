@@ -26,8 +26,6 @@ In this session, I focused on:
 
 User → FastAPI → AI (llama.cpp) → Decision → MongoDB → Response
 
-![AI Pipeline Diagram](./images/pipeline.png)
-
 This pipeline shows how AI systems process input, use memory, and return meaningful responses. It also demonstrates how different components work together as a single system.
 
 ---
@@ -90,7 +88,6 @@ This approach enables the AI to act like an agent that can decide what action to
 6. Execute the required action  
 7. Return the final response  
 
-![AI Workflow Diagram](./images/workflow.png)
 
 This step-by-step execution ensures that the system behaves consistently and can scale for real-world applications.
 
