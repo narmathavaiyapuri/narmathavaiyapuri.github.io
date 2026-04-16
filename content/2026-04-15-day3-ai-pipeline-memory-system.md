@@ -1,5 +1,5 @@
 Title: Day 3 – Building an End-to-End AI Pipeline  
-Date: 2026-04-15  
+Date: 2025-04-15  
 Category: GenAI  
 Tags: GenAI, AI Pipeline, llama.cpp, MongoDB  
 Slug: day3-ai-pipeline-memory-system  
@@ -28,7 +28,7 @@ User → FastAPI → AI (llama.cpp) → Decision → MongoDB → Response
 
 ![AI Pipeline Diagram](./images/pipeline.png)
 
-This pipeline shows how AI systems process input, use memory, and return meaningful responses.
+This pipeline shows how AI systems process input, use memory, and return meaningful responses. It also demonstrates how different components work together as a single system.
 
 ---
 
@@ -40,7 +40,7 @@ I used llama.cpp with a GGUF model to run the AI locally.
 - Top-p → controls randomness  
 - Max tokens → controls response length  
 
-This allows better control, privacy, and offline capability.
+This allows better control, privacy, and offline capability. It also helps in reducing dependency on external APIs and gives full control over model execution.
 
 ---
 
@@ -57,7 +57,7 @@ BOTTOM_JSON:
 }
 ```
 
-This helps the system understand and act on AI responses.
+This helps the system understand and act on AI responses. Structured output ensures that the backend can reliably interpret the model’s decision and trigger the correct action.
 
 ---
 
@@ -66,16 +66,21 @@ This helps the system understand and act on AI responses.
 ```json
 {
   "text": "User likes AI",
-  "date": "2026-04-15"
+  "date": "2025-04-15"
 }
 ```
 
+MongoDB is used to store and retrieve user data, enabling memory and personalization. This allows the system to persist user data and reuse it across multiple interactions.
+
+---
 
 ## 5. Building Stateful AI
 
 - Store user inputs  
 - Retrieve memory  
 - Use it in responses  
+
+This makes the system more intelligent by remembering past interactions and improving response quality over time.
 
 ---
 
@@ -84,6 +89,8 @@ This helps the system understand and act on AI responses.
 - store → save data  
 - retrieve → fetch data  
 - none → normal response  
+
+This approach enables the AI to act like an agent that can decide what action to take based on the user input.
 
 ---
 
@@ -98,6 +105,14 @@ This helps the system understand and act on AI responses.
 7. Return the final response  
 
 ![AI Workflow Diagram](./images/workflow.png)
+
+This step-by-step execution ensures that the system behaves consistently and can scale for real-world applications.
+
+---
+
+## Real-World Use Case
+
+This type of AI pipeline can be used in chatbots, virtual assistants, and recommendation systems where memory and decision-making are important.
 
 ---
 
