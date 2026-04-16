@@ -56,20 +56,6 @@ BOTTOM_JSON:
   "data": "..."
 }
 ```
-
-This helps the system understand and act on AI responses. Structured output ensures that the backend can reliably interpret the model’s decision and trigger the correct action.
-
----
-
-## 4. MongoDB as a Memory System
-
-```json
-{
-  "text": "User likes AI",
-  "date": "2025-04-15"
-}
-```
-
 MongoDB is used to store and retrieve user data, enabling memory and personalization. This allows the system to persist user data and reuse it across multiple interactions.
 
 ---
