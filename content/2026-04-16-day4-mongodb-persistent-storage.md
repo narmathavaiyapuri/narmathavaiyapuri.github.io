@@ -1,50 +1,55 @@
-Title: Day 4 – MongoDB Connection & Persistent Storage  
-Date: 2026-04-16  
-Category: GenAI  
-Tags: GenAI, MongoDB, Backend  
-Slug: day4-mongodb-persistent-storage  
-Status: published  
+Title: "Day 4 – MongoDB Connection & Persistent Storage"
+Date: 2026-04-16
+Category: GenAI
+Tags: [GenAI, MongoDB, Backend]
+Slug: day4-mongodb-persistent-storage
+Status: published
 
----
 
 ## Introduction
 
 In AI systems, data should not be lost after execution. Persistent storage helps store data permanently.
 
 ### Use
+
 - Store user inputs  
 - Save AI responses  
 - Maintain history  
 
 On Day 4, I connected my Python application to MongoDB to build a persistent backend system.
 
----
 
 ## Understanding Persistent Storage
 
 Persistent storage means saving data permanently in a database.
 
 ### Use
+
 - Prevent data loss  
 - Enable data reuse  
 - Support long-term storage  
 
 ### Types
-- Stateless → No memory  
-- Stateful → Stores memory  
+
+- **Stateless** → No memory  
+- **Stateful** → Stores memory  
 
 ---
+
 ## MongoDB Overview
+
 MongoDB is a NoSQL database that stores data as JSON-like documents.
+
 ### Use
+
 - Store flexible data  
 - Handle scalable applications  
+
 ### Structure
+
 - Database  
 - Collection  
 - Document  
-
----
 
 ## Connecting Python to MongoDB
 This step connects Python application with MongoDB.
