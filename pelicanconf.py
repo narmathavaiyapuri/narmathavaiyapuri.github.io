@@ -24,7 +24,7 @@ PYGMENTS_STYLE_DARK = 'native'  # Dark mode
 
 # Static files
 STATIC_PATHS = ['images']
-SITELOGO = '/images/Narmatha.png'
+SITELOGO = '/images/Narmatha.jpeg'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
