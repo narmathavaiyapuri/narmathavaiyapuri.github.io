@@ -1,5 +1,5 @@
 Title: Prompt Engineering vs Fine-Tuning
-Date: 2026-07-21
+Date: 2026-07-20
 Category: GenAI
 Tags: Prompt Engineering, Fine-Tuning, LLM, GenAI, Machine Learning, AI Development
 Slug: prompt-engineering-vs-fine-tuning

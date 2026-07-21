@@ -1,5 +1,5 @@
 Title: Beyond Prompts: The Rise of LangGraph
-Date: 2026-07-20
+Date: 2026-07-21
 Category: GenAI
 Tags: LangGraph, LangChain, Agentic AI, LLM Orchestration, GenAI, AI Development
 Slug: beyond-prompts-the-rise-of-langgraph
