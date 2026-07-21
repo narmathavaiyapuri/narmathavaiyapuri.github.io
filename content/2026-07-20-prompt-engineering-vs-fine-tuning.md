@@ -47,6 +47,3 @@ Each approach comes with trade-offs worth knowing before committing to one.
 
 There isn't a universal winner here — the real skill is knowing which lever to pull for a given problem. Prompt engineering gets you moving fast and cheap; fine-tuning gets you consistency and depth when the stakes justify the investment. The teams that get this right aren't the ones with the fanciest fine-tuned model — they're the ones who know exactly which problem calls for which tool.
 
-*If this helped clarify the trade-offs, share it with someone deciding between the two.*
-
-![1775918663065](image/2026-07-21-prompt-engineering-vs-fine-tuning/1775918663065.png)

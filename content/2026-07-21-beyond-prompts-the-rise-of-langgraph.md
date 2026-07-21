@@ -50,6 +50,3 @@ Graph-based orchestration solves real problems, but it introduces its own comple
 
 Prompts got us started, but they were never going to be the whole story. As LLM applications keep taking on more autonomous, multi-step work, the tools we build with have to model uncertainty and control flow, not just text in and text out. LangGraph is a strong signal of where the field is heading — from prompting a model to actually engineering a system.
 
-*If this helped you see past prompt chains, share it with someone building AI agents.*
-
-![1775918663065](image/2026-07-21-beyond-prompts-the-rise-of-langgraph/1775918663065.png)

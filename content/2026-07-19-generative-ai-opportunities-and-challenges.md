@@ -48,6 +48,3 @@ None of this comes without real trade-offs, and ignoring them is where teams get
 
 Generative AI isn't a question of *if* it reshapes how we work — that's already happening. The real question is whether we adopt it deliberately, with clear eyes on both what it unlocks and what it risks, or let the excitement outrun the judgment needed to use it well.
 
-*If this gave you a clearer picture of where generative AI actually stands, share it with your team.*
-
-![1775918663065](image/2026-07-21-generative-ai-opportunities-and-challenges/1775918663065.png)

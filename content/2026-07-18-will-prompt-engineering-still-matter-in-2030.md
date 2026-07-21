@@ -49,6 +49,3 @@ By 2030, prompt engineering probably won't be a separate job. It'll be a baselin
 
 The real shift isn't that prompting stops mattering — it's that clear thinking becomes the actual skill, and prompting is just the interface for expressing it. The people who communicate precisely with AI today are the ones quietly building the instincts that will matter most, no matter what the interface looks like in 2030.
 
-*If this changed how you think about the future of prompting, share it with someone building with AI.*
-
-![1775918663065](image/2026-07-21-will-prompt-engineering-still-matter-in-2030/1775918663065.png)
