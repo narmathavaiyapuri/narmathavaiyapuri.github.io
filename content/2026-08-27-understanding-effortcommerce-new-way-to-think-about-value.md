@@ -1,5 +1,5 @@
 Title: Understanding EffortCommerce: A New Way to Think About Value
-Date: 2026-07-25
+Date: 2026-08-25
 Category: Emerging Concepts
 Tags: EffortCommerce, Alternative Economies, Value Systems
 Slug: understanding-effortcommerce-new-way-to-think-about-value
