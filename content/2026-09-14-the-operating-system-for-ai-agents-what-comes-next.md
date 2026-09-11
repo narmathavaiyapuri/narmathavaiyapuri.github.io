@@ -3,7 +3,7 @@ Date: 2026-09-14
 Category: Artificial Intelligence
 Tags: agent operating system, agentic infrastructure, AI platforms, future of AI
 Slug: the-operating-system-for-ai-agents-what-comes-next
-Status: Published
+Status: draft
 
 Every team building agents right now is quietly rebuilding the same handful of things: a way to manage state, a way to route between models, a way to enforce permissions, a way to coordinate tools and other agents. None of that is specific to any one company's use case, and yet almost nobody is building it once and reusing it — it gets rebuilt, slightly differently, inside every organization that deploys an agent seriously. That pattern, of foundational infrastructure being reinvented rather than shared, is usually a sign that a category is about to consolidate into something like an **operating system for AI agents**.
 

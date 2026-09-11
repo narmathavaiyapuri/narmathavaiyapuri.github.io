@@ -3,7 +3,7 @@ Date: 2026-09-12
 Category: Artificial Intelligence
 Tags: LLM orchestration, agent architecture, tool use, agentic AI
 Slug: llm-orchestration-coordinating-models-tools-and-data
-Status: Published
+Status: draft
 
 A single model call is straightforward: send a prompt, get a response. A real task rarely stops there — it needs a database query, then a model to interpret the result, then a different tool to act on it, then perhaps another model to check the work, all while keeping track of what's happened so far. Nobody designs that sequence by hand for every request; it needs a layer that manages the coordination itself. That coordinating layer is **LLM orchestration**.
 
