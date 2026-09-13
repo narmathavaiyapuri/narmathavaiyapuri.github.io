@@ -3,7 +3,7 @@ Date: 2026-09-13
 Category: Artificial Intelligence
 Tags: autonomous decision-making, AI agents, agentic AI, decision autonomy
 Slug: autonomous-decision-making-in-ai-agents
-Status: draft
+Status: Published
 
 Every agentic system eventually runs into the same unresolved question: exactly how much should this thing be allowed to decide on its own? Too little autonomy and the agent becomes a glorified notification system, flagging everything for a human and delivering little of the efficiency it was built for. Too much, and a single bad call executes before anyone has a chance to catch it. There's no universal right answer — the correct level of autonomy depends entirely on what's at stake — which is precisely why **autonomous decision-making** deserves to be treated as a deliberate design choice rather than a default setting.
 
