@@ -3,7 +3,7 @@ Date: 2026-09-15
 Category: AI Infrastructure
 Tags: knowledge decay, AI memory, forgetting, agent architecture, stale data
 Slug: ai-knowledge-decay-problem-teaching-ai-what-to-forget
-Status: draft
+Status: Published
 
 Give an AI system a long-term memory and the natural next problem is that it starts remembering things that stop being true — a price that changed, a policy that got updated, a preference the user no longer holds — and unless something actively manages that, the system keeps confidently using stale facts as if they were current. Most memory design focuses on what to store and how to retrieve it; far less attention goes to the harder companion problem of what to stop trusting, or actively remove, once it's no longer accurate. That's the knowledge decay problem, and solving it well requires deliberately teaching a system what to forget, not just what to keep.
 
