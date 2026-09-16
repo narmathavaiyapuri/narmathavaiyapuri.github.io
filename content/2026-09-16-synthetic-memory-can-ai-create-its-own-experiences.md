@@ -3,7 +3,7 @@ Date: 2026-09-16
 Category: AI Infrastructure
 Tags: synthetic memory, AI agents, simulated experience, memory architecture, self-play
 Slug: synthetic-memory-can-ai-create-its-own-experiences
-Status: draft
+Status: Published
 
 An AI agent's memory is normally built entirely from what actually happened to it — real conversations, real tool results, real outcomes. But a human doesn't only learn from lived experience; imagining how a difficult conversation might go, or mentally rehearsing an unfamiliar task, shapes future behavior too, without any of it actually occurring. The question of whether an AI agent can benefit from an analogous kind of self-generated, non-lived "experience" — and whether calling that memory at all is even accurate — is what synthetic memory is trying to work out.
 
