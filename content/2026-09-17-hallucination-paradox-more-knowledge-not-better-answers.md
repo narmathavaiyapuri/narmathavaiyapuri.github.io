@@ -3,7 +3,7 @@ Date: 2026-09-17
 Category: AI Infrastructure
 Tags: hallucination, LLM reliability, retrieval, context, AI accuracy
 Slug: hallucination-paradox-more-knowledge-not-better-answers
-Status: draft
+Status: Published
 
 The intuitive fix for a model that gets facts wrong is to give it more facts — more retrieved documents, more context, more sources to draw from — and yet teams that do exactly this sometimes see hallucination rates go up, not down. That's not supposed to happen if more knowledge straightforwardly means better-grounded answers, which suggests the relationship between how much information a model has access to and how accurate its answers are isn't the simple, monotonic curve most intuition assumes. That counterintuitive relationship is the hallucination paradox.
 
