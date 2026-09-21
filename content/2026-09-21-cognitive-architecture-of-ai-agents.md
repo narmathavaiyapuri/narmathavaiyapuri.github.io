@@ -1,9 +1,9 @@
 Title: The Cognitive Architecture of AI Agents
-Date: 2026-09-22
+Date: 2026-09-21
 Category: AI Infrastructure
 Tags: cognitive architecture, AI agents, agent design, systems thinking, agentic AI
 Slug: cognitive-architecture-of-ai-agents
-Status: draft
+Status: Published
 
 Ask what "architecture" means for a traditional application and there's a settled answer — layers, services, data flow. Ask the same question about an AI agent and the answer gets murkier, because the interesting structure isn't in the code that wires components together, it's in how the agent perceives its situation, decides what to attend to, and chooses what to do next — closer to a question borrowed from cognitive science than from software architecture as traditionally understood. Naming that structure explicitly, rather than leaving it as an emergent side effect of prompting, is what treating an agent's cognitive architecture seriously means.
 

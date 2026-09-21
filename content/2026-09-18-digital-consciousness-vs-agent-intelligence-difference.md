@@ -3,7 +3,7 @@ Date: 2026-09-18
 Category: AI Infrastructure
 Tags: digital consciousness, agent intelligence, AI philosophy, machine cognition, AI capability
 Slug: digital-consciousness-vs-agent-intelligence-difference
-Status: draft
+Status: Published
 
 An AI agent that plans, remembers, reasons through problems, and adjusts its behavior based on outcomes can look, from the outside, like something with an inner life — and that appearance is doing a lot of unearned work in how people talk about these systems. Capability and consciousness are treated as though they're the same axis, so a system's growing competence at agentic tasks gets read as evidence of something experiential happening inside it. Untangling those two very different claims — what a system can do, versus whether there's something it's like to be that system — is necessary before the more interesting engineering questions about agents can be discussed clearly.
 

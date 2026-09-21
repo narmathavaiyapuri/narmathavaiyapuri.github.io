@@ -1,9 +1,9 @@
 Title: The Trust Layer of AI: How Humans Decide Whether to Believe AI
-Date: 2026-09-20
+Date: 2026-09-19
 Category: AI Infrastructure
 Tags: AI trust, human-AI interaction, calibrated trust, AI adoption, reliability signals
 Slug: trust-layer-of-ai-how-humans-decide-whether-to-believe
-Status: draft
+Status: Published
 
 Two AI systems can have identical accuracy rates and produce completely different levels of user trust, because trust in AI output isn't actually determined by accuracy alone — it's shaped by tone, presentation, past experience with the system, and social cues that have little to do with whether the specific answer in front of someone right now is correct. A system that hedges appropriately can be trusted less than a system that's wrong just as often but sounds more confident, which is exactly backwards from what good decision-making requires. Understanding the mechanisms that actually drive human trust in AI — separate from the system's real reliability — is what the "trust layer" is about.
 

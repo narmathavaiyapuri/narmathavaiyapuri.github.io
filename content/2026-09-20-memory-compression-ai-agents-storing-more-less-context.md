@@ -1,9 +1,9 @@
 Title: Memory Compression in AI Agents: Storing More with Less Context
-Date: 2026-09-10
+Date: 2026-09-20
 Category: AI Infrastructure
 Tags: memory compression, AI agents, context windows, summarization, agent memory
 Slug: memory-compression-ai-agents-storing-more-less-context
-Status: draft
+Status: Published
 
 An agent's context window is a fixed, finite resource, and every additional piece of history it needs to keep track of competes for space against everything else that matters right now — the current task, the latest tool result, the immediate instructions. Keeping full verbatim history around indefinitely isn't just expensive; past a certain point it's actively impossible, since the window simply runs out. The practical response is to compress what's remembered down to a smaller footprint that preserves what matters — a genuinely different problem than deciding what to remember at all, and one with its own specific failure modes.
 
