@@ -3,7 +3,7 @@ Date: 2026-09-25
 Category: AI Infrastructure
 Tags: attention mechanism, LLMs, transformer architecture, context, model behavior
 Slug: attention-economy-inside-llms-what-models-focus-on
-Status: draft
+Status: Published
 
 Feed a model a long document and ask a specific question about a detail buried in the middle, and it will sometimes miss that detail entirely — not because the detail wasn't technically present in what it read, but because not all of that content received equal weight when the model formed its answer. Every token in a model's context competes for a limited, unevenly distributed resource inside the model itself, and understanding that competition — a genuine economy of finite attention, spent unevenly across the input — explains a class of model behavior that looking only at "was the information present" completely misses.
 

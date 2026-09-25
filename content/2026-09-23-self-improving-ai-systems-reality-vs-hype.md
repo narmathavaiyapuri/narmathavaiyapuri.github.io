@@ -3,7 +3,7 @@ Date: 2026-09-23
 Category: AI Infrastructure
 Tags: self-improving AI, recursive improvement, AI capability, AI hype, machine learning
 Slug: self-improving-ai-systems-reality-vs-hype
-Status: draft
+Status: Published
 
 "Self-improving AI" gets used to describe everything from a chatbot that logs corrections for future fine-tuning to speculative scenarios of an AI recursively rewriting its own architecture without limit — two claims with almost nothing in common except the phrase used to describe them. That range is wide enough that the term does more to generate excitement or alarm than to communicate anything specific about what a given system actually does. Separating what's genuinely happening today from what remains speculative is the point of looking at this concept carefully rather than taking the phrase at face value.
 

@@ -3,7 +3,7 @@ Date: 2026-09-24
 Category: AI Infrastructure
 Tags: AI governance, accountability, autonomous agents, responsibility, AI policy
 Slug: ai-agent-governance-who-is-responsible-autonomous-decisions
-Status: draft
+Status: Published
 
 When an autonomous agent takes an action that causes real harm — sends a wrong communication, executes a flawed transaction, denies someone a service they should have received — the question "who's responsible" doesn't have the same clean answer it would if a specific employee had made that call. The action passed through a model's reasoning, a plan the model generated, a tool the engineering team built, and an organizational decision to grant the system that level of autonomy in the first place — and responsibility is genuinely distributed across all of those, in a way traditional accountability structures weren't built to assign cleanly. Working out how to assign that responsibility, before it's needed rather than after an incident, is the core problem of AI agent governance.
 
