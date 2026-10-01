@@ -3,7 +3,7 @@ Date: 2026-09-29
 Category: AI Infrastructure
 Tags: cognitive load, AI agents, complexity management, agent architecture, scalability
 Slug: cognitive-load-ai-agents-managing-complexity-at-scale
-Status: draft
+Status: Published
 
 Give an agent five tools, a clear goal, and a short task, and it performs well. Give the same underlying model twenty tools, a multi-part goal, a long accumulated history, and several nested sub-tasks, and performance often degrades in ways that have nothing to do with the model getting "less capable" — the model is the same, but the amount it's being asked to juggle simultaneously has grown past what it reliably handles well. That degradation under accumulated complexity, distinct from any change in the model itself, is what's usefully described as cognitive load in AI agents.
 

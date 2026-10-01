@@ -3,7 +3,7 @@ Date: 2026-09-28
 Category: AI Infrastructure
 Tags: knowledge lifespan, model training, retrieval, knowledge cutoff, generative AI
 Slug: lifespan-of-knowledge-in-generative-ai-systems
-Status: draft
+Status: Published
 
 A model's training data has a freeze date, but the world it's answering questions about doesn't stop moving on that date — prices change, people change jobs, policies get updated, and every day that passes after training widens the gap between what the model "knows" and what's actually true. Treating a model's knowledge as a fixed, permanent asset rather than something with a defined and shrinking shelf life is a quiet, common mistake that surfaces the moment a system is asked about something recent. Taking the lifespan of knowledge seriously — as a property that varies by fact and needs active management, not a one-time training decision — is the discipline this concept describes.
 

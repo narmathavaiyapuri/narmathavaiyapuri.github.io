@@ -3,7 +3,7 @@ Date: 2026-09-27
 Category: AI Infrastructure
 Tags: agent drift, AI reliability, autonomous systems, model updates, monitoring
 Slug: ai-agent-drift-how-autonomous-systems-change-over-time
-Status: draft
+Status: Published
 
 An agent that performs reliably at launch isn't guaranteed to perform the same way six months later, even if not a single line of its code has changed — because "not changing the code" doesn't mean the system is standing still. The underlying model might be updated by its provider, the real-world inputs it faces might shift, and its own accumulated memory or state might quietly evolve in ways no one specifically authored. None of these show up as a deployment event the way a code change would, which is exactly what makes this kind of change dangerous: it happens without anyone deciding it should. That gradual, often invisible change in behavior is agent drift.
 

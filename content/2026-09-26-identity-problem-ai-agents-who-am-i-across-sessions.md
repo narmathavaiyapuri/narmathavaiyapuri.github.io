@@ -3,7 +3,7 @@ Date: 2026-09-26
 Category: AI Infrastructure
 Tags: agent identity, AI agents, persistence, session continuity, agent architecture
 Slug: identity-problem-ai-agents-who-am-i-across-sessions
-Status: draft
+Status: Published
 
 Ask a person who they are and the answer draws on a continuous thread of memory, relationships, and commitments that persists whether or not anyone's asking. Ask an AI agent the equivalent question across two separate sessions, and unless something was deliberately built to carry identity forward, there's no thread at all — session two doesn't inherit session one's sense of "who it is" any more than a fresh instance of any stateless program would. That gap becomes a real design problem the moment a product wants an agent to feel, and actually be, consistent across interactions rather than a new stranger every time. That's the identity problem.
 

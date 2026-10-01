@@ -3,7 +3,7 @@ Date: 2026-09-30
 Category: AI Infrastructure
 Tags: intent understanding, instruction following, AI understanding, prompt design, agent behavior
 Slug: from-instructions-to-intent-next-evolution-ai-understanding
-Status: draft
+Status: Published
 
 Tell a system "always respond within two sentences" and a purely instruction-following model will dutifully truncate a genuinely complex answer to fit, even when doing so makes the answer useless — because it optimized for the literal instruction, not for what the instruction was actually trying to achieve. A person given the same guidance would understand it as a general preference for brevity, not an inviolable rule to follow off a cliff. That gap between satisfying the literal words of an instruction and actually serving the goal behind it is the problem behind a broader shift in how AI systems are being asked to operate: from following instructions to inferring intent.
 
